@@ -2,4 +2,4 @@
 
 Hi,
 
-It is fun to learn Github
+It is fun to learn Github.
